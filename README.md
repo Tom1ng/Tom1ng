@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Tom
+- 👀 I’m interested in learning and development
+- 🌱 I’m currently learning the basics of html and css and will then be moving on to get familiar with js
+- 📫 How to reach me - discord - bait#8888
